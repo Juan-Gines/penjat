@@ -11,4 +11,26 @@ public class Constants {
   public static final String ANSI_CYAN = "\u001B[36m";
   public static final String ANSI_WHITE = "\u001B[37m";
   public static final String ANSI_RESET = "\u001B[0m";
+  public static final String[] DICCIONARI = {
+      "academia", "algoritme", "bicicleta", "calamars", "ciutadans",
+      "diamants", "educacio", "escriptor", "finestra", "gestions",
+      "habitant", "independencia", "jardiner", "laberint", "manufactura",
+      "necessitat", "ocell", "reformular", "quimica", "recursos",
+      "sabateria", "televisio", "univers", "volum", "xocolata",
+      "abduccio", "abnegacio", "biodiversitat", "cacera", "desenvolupament",
+      "espectacle", "fructifera", "galeria", "hidrogen", "imprudent",
+      "jubilacio", "kilometre", "lamentable", "manifestacio", "necessitats",
+      "occidental", "paranoia", "querosen", "realitat", "sensibilitat",
+      "tarantula", "uniforme", "ventilador", "xifrat", "zoologic",
+      "abduccio", "abstemi", "festuc", "computadora", "desenvolupar",
+      "esdruixol", "frances", "garantia", "hidroavio", "imprudencia",
+      "judicial", "kilo", "logistica", "manipulacio", "nocturn",
+      "obstacle", "infinit", "quemadura", "resistencia", "suburbi",
+      "tarjeta", "utilitari", "vocal", "xenofobia", "zoologico",
+      "endavant", "abstencio", "biblioteca", "canciller", "inviable",
+      "escalfret", "frustracio", "galeta", "herramienta", "intervencio",
+      "jugador", "karaoke", "laboratori", "manipular", "novetat",
+      "objecte", "paquet", "quedar", "resplandor", "suspendre",
+      "tactica", "utilizar", "verdader", "xilofon", "cagarro"
+  };
 }
