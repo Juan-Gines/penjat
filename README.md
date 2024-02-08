@@ -1,18 +1,29 @@
-## Getting Started
+# Joc El Penjat
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Práctica per el curs de CP Systemes i Programació de llenguajes estructurals feta en Java
 
-## Folder Structure
+## En que consisteix
 
-The workspace contains two folders by default, where:
+El Penjat consisteix en anar endevinant lletres de una paraula.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Cada vegada que la lletra escollida no está perds una .
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Si un jugador fa parella podrá tornar a tirar.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Fins que totes les fitxes estiguin girades.
 
-## Dependency Management
+## Plantejament
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Objectiu: ser capaços de desenvolupar un programa en llenguatge Java que permetrà a l’usuari jugar al popular joc del memory.
+
+El programa ens permetrá jugar sols o competir dues persones.
+
+## Ampliació del joc
+
+Ara podem jugar contra l'ordinador.
+
+- Mode fácil "aleatori" del ordinador.
+
+- Mode dificil, la ia s'hen recorda de les fitxes que descobreix i les utilitza per fer parelles.
+
+- Mode molt dificil, la ia s'hen recorda de totes les fitxes que es van descobrint i les utilitza per fer parelles.
